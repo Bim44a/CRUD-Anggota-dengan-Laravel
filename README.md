@@ -26,15 +26,15 @@ AGT-[TAHUN]-[NOMOR_URUT]
 
 Implementasikan fitur export data anggota ke file Excel menggunakan package Laravel Excel (maatwebsite/excel) versi terbaru.
 
-### Data Export Excel
+### Tampilan Export Excel pada Index
 
-![Data Export Excel](images-pw13/data_excel.png)
+![Tampilan Export Excel](images-pw13/tampilan_excel.png)
 
 ---
 
-### Tampilan Hasil Export Excel
+### Tampilan Data Hasil Export ke Excel
 
-![Tampilan Export Excel](images-pw13/tampilan_excel.png)
+![Data Export Excel](images-pw13/data_excel.png)
 
 ---
 

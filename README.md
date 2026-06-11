@@ -18,7 +18,7 @@ AGT-[TAHUN]-[NOMOR_URUT]
 
 ### Generate Kode Anggota
 
-![Generate Kode Anggota](images-13/generate_kode.png)
+![Generate Kode Anggota](images-pw13/generate_kode.png)
 
 ---
 
@@ -28,13 +28,13 @@ Implementasi fitur export data anggota ke file Excel menggunakan package Laravel
 
 ### Data Export Excel
 
-![Data Export Excel](images-13/data_excel.png)
+![Data Export Excel](images-pw13/data_excel.png)
 
 ---
 
 ### Tampilan Hasil Export Excel
 
-![Tampilan Export Excel](images-13/tampilan_excel.png)
+![Tampilan Export Excel](images-pw13/tampilan_excel.png)
 
 ---
 
@@ -51,6 +51,6 @@ Implementasi fitur pencarian dan filter data anggota berdasarkan:
 
 ### Search & Filter Anggota
 
-![Advanced Search](images-13/search_advanced.png)
+![Advanced Search](images-pw13/search_advanced.png)
 
 ---

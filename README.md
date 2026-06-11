@@ -24,7 +24,7 @@ AGT-[TAHUN]-[NOMOR_URUT]
 
 ## Tugas 2: Export Anggota ke Excel
 
-Implementasi fitur export data anggota ke file Excel menggunakan package Laravel Excel (maatwebsite/excel).
+Implementasikan fitur export data anggota ke file Excel menggunakan package Laravel Excel (maatwebsite/excel) versi terbaru.
 
 ### Data Export Excel
 
@@ -40,14 +40,7 @@ Implementasi fitur export data anggota ke file Excel menggunakan package Laravel
 
 ## Tugas 3: Advanced Search & Filter
 
-Implementasi fitur pencarian dan filter data anggota berdasarkan:
-
-- Nama
-- Email
-- Telepon
-- Jenis Kelamin
-- Status
-- Pekerjaan
+Tambahkan fitur search dan filter advanced untuk anggota.
 
 ### Search & Filter Anggota
 
